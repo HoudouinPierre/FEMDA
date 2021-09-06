@@ -2,9 +2,8 @@
 Flexible EM-Inspired Discriminant Analysis is a robust supervised classification algorithm that performs well in noisy and contaminated datasets.
 
 ### Authors
-Andrew Wang, University of Cambridge, Cambridge, UK
 Pierre Houdouin, CentraleSupélec, Paris, France
-
+Andrew Wang, University of Cambridge, Cambridge, UK
 ## Get started
 ```python
 >>> from sklearn.datasets import load_iris
