@@ -26,7 +26,7 @@ FEMDA()
 See ![demo.ipynb](demo.ipynb) for more.
 
 ## Abstract
-Linear and Quadraic Discriminant Analysis are well-known classical methods but suffer heavily from non-Gaussian class distributions and are very non-robust in contaminated datasets. In this paper, we present a new discriminant analysis style classification algorithm that directly models noise and diverse shapes which can deal with a wide range of datasets. 
+Linear and Quadratic Discriminant Analysis are well-known classical methods but suffer heavily from non-Gaussian class distributions and are very non-robust in contaminated datasets. In this paper, we present a new discriminant analysis style classification algorithm that directly models noise and diverse shapes which can deal with a wide range of datasets. 
 
 Each data point is modelled by its own arbitrary Elliptically Symmetrical (ES) distribution and its own arbitrary scale parameter, modelling directly very heterogeneous, non-i.i.d datasets. We show that maximum-likelihood parameter estimation and classification are simple and fast under this model.
 
